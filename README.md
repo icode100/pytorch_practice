@@ -9,7 +9,7 @@ Step-by-step tutorials: Each tutorial focuses on a specific aspect of PyTorch, w
 Clone this repository:
 
 Bash
-`git clone https://github.com/<your-username>/pytorch-tutorial.git`
+`git clone https://github.com/icode100/pytorch-tutorial.git`
 Use code with caution.
 Install dependencies:
 `pip install torch numpy matplotlib`
