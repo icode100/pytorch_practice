@@ -3,20 +3,20 @@
 ### PyTorch Tutorial
 This repository contains a series of tutorials depicting my learning of pytorch. \
 
-What's Included?
-Step-by-step tutorials: Each tutorial focuses on a specific aspect of PyTorch, with clear explanations and code examples.
+What's Included? \
+Step-by-step tutorials: Each tutorial focuses on a specific aspect of PyTorch, with clear explanations and code examples. \
 
-Clone this repository:
+Clone this repository: 
 
-Bash
-`git clone https://github.com/icode100/pytorch-tutorial.git`
-Use code with caution.
-Install dependencies:
-`pip install torch numpy matplotlib`
-Note: The specific dependencies will vary depending on the tutorials. Each tutorial will have instructions on installing any required packages.
+Bash \
+`git clone https://github.com/icode100/pytorch-tutorial.git` \
+Use code with caution. \
+Install dependencies: \
+`pip install torch numpy matplotlib` \
+Note: The specific dependencies will vary depending on the tutorials. Each tutorial will have instructions on installing any required packages. \
 
 
-Additional Resources
-PyTorch Documentation: https://pytorch.org/
-PyTorch Tutorials: https://pytorch.org/tutorials/
+Additional Resources \
+PyTorch Documentation: https://pytorch.org/ \
+PyTorch Tutorials: https://pytorch.org/tutorials/ \
 Youtube playlist by Patrick Loeber: https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4
